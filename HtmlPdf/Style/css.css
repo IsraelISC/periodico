@@ -1,0 +1,60 @@
+body {
+      font-family: "Times New Roman", Times, serif;
+    }
+
+    .texto,
+    .textoSec,
+    .textoSec2,
+    .parrafo,
+    .txtPrincipal {
+      font-family: "Times New Roman", Times, serif;
+    }
+.linea{
+	background:#000000;
+	padding: 2px;
+	margin-top: 50px;
+	display: flex;
+  	align-items: center;
+}
+.lineaInf{
+	background:#000000;
+	padding: 2px;
+	margin-top: 10px;
+	
+  	align-items: center;
+}
+.texto{
+	margin-top: 40px;
+	text-align: center;
+
+}
+.textoSec{
+	text-align: center;
+	background: #000000;
+	color: #ffffff;
+	margin-left: 25px;
+}
+.textoSec2{
+	background: #000000;
+	color: #ffffff;
+	margin-left: 25px;
+	text-align: left;
+}
+
+.parrafo{
+	margin-left: 25px;
+}
+.txtPrincipal{
+	font-size: 80px;
+	text-align: center;
+}
+.BordeIzq{
+	margin-right: 20px;
+}
+.cuadro{
+	border: 2px solid black;
+  	padding: 10px;
+}
+.marginTOP{
+	margin-top: 50px;
+}
